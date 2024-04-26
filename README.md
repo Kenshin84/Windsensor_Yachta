@@ -3,7 +3,7 @@
 ![Windsnesor Yachta](project/pictures/Yachta_Windsensor.jpg)
 
 Image: Wind Sensor Yachta
-
+ 
 The initial idea for the Yachta wind sensor is based on a work by the user Yachta. He presented and published the wind sensor on [Thingiverse](https://www.thingiverse.com/thing:2261719). Udo took up the idea of ​​Yachta and modified the mechanics a little. The arms of the cup wheel have been separated. This makes 3D printing easier to implement. The electronics were completely redesigned by him. The microcontroller was removed and replaced with an ESP8266. A DC/DC converter module was installed so that the wind sensor can also be operated at 12V. The circuit board was created with the Windows software Sprint Layout and converted into Gerber files. Now is a new BCP available from Norbert.
 
 ![Windsnesor Yachta](project/pictures/Top_3D_Yachta.png)
