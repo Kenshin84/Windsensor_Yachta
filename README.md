@@ -1,5 +1,8 @@
 ## Windsensor Yachta
 
+Nou link
+![Afegeixo més info](https://open-boat-projects.org/en/zusammenbauanleitung-windsensor-yachta/)
+
 ![Windsnesor Yachta](project/pictures/Yachta_Windsensor.jpg)
 
 Image: Wind Sensor Yachta
